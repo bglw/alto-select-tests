@@ -1,5 +1,4 @@
 ---
-_schema: default
 title: Configuring the navigation and footer
 nav_title: Configuring the navigation and footer
 nav_section: Customizing Alto

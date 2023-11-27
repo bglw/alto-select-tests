@@ -1,5 +1,4 @@
 ---
-_schema: default
 title: Welcome 👋
 nav_title: Home
 SEO_options:

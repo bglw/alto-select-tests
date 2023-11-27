@@ -4,10 +4,12 @@
   "dependencies": {
     "alpinejs": "^3.10.3"
   },
-
-  "scripts":{
+  "scripts": {
     "dev": "hugo server -D -p 8080",
     "dev:pagefind": "npx -y pagefind@latest --source public"
+  },
+  "devDependencies": {
+    "fast-glob": "^3.3.2",
+    "md-front-matter": "^1.0.4"
   }
-  
 }

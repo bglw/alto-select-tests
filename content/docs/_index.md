@@ -1,5 +1,4 @@
 ---
-_schema: default
 title: Getting Started
 nav_title: Getting Started
 nav_section: Root

@@ -1,5 +1,4 @@
 ---
-_schema: default
 title: Using Shortcodes
 nav_title: Using Shortcodes
 nav_section: Root
