@@ -7,10 +7,10 @@ const fg = require("fast-glob");
 const build_structure_from_doc_data = (file_path, data) => {
   return {
     label: data.title,
-    tags: [data.nav_section], // Structures can have tags, which a user can filter for in CloudCannon
     preview: {
       text: [data.title],
       subtext: [data.nav_section],
+      tags: [data.nav_section], // Structures can have tags, which a user can filter for in CloudCannon
     },
     value: { file_path },
   };
